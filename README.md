@@ -1,9 +1,5 @@
 # ML4Science Hands on Session
 
-## Q8 Secondary structure prediction contest submission window is open [4th Dec 6:00pm - 6:15pm]
-* Instructions for submission and submission form can be found here -> http://bit.ly/ML4SCI-contest2
-
-
 ## Prerequisites
 
 ### Hardware:
